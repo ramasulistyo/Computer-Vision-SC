@@ -1,2 +1,2 @@
 # Computer Vision
-StartUp Campus Machine Learning and Deep Learning
+StartUp Campus Computer Vision
